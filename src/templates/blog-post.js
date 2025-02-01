@@ -14,8 +14,10 @@ const BlogPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
   const image = getImage(post.frontmatter.heroImage)
-  const pageUrl = window.location.href;
-
+  if (typeof window !== "undefined") {
+    const pageUrl = window.location.href;
+    console.log(pageUrl);
+  }
   return (
     <Layout location={location} title={siteTitle}>
       <article>
