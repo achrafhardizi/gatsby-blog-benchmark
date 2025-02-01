@@ -10,7 +10,7 @@ Features:
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of your Gatsby project, you'll see the following folders and files:
 
 ```text
 .
