@@ -1,6 +1,6 @@
 ---
-title: 'Using MDX'
-description: 'Lorem ipsum dolor sit amet'
+title: Using MDX
+description: Lorem ipsum dolor sit amet
 date: "2024-06-01T22:12:03.284Z"
 heroImage: "../../../src/images/blog-placeholder-5.jpg"
 ---

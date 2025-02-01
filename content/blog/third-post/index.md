@@ -1,7 +1,7 @@
 ---
 title: Third Post
 date: "2022-07-08T22:12:03.284Z"
-description: "Hello World"
+description: Hello World
 heroImage: "../../../src/images/blog-placeholder-2.jpg"
 ---
 

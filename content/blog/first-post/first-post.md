@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: First post
 date: "2022-06-08T22:40:32.169Z"
-description: 'Lorem ipsum dolor sit amet'
+description: Lorem ipsum dolor sit amet
 heroImage: "../../../src/images/blog-placeholder-3.jpg"
 ---
 
