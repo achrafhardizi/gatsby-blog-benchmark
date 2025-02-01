@@ -14,10 +14,10 @@ const BlogPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
   const image = getImage(post.frontmatter.heroImage)
-  if (typeof window !== "undefined") {
-    const pageUrl = window.location.href;
-    console.log(pageUrl);
-  }
+
+  // Ensure pageUrl is only set when window is available
+  const pageUrl = typeof window !== "undefined" ? window.location.href : "";
+
   return (
     <Layout location={location} title={siteTitle}>
       <article>
