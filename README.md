@@ -1,4 +1,4 @@
-# Astro Blog Benchmark
+# Gatsby Blog Benchmark
 
 Features:
 
